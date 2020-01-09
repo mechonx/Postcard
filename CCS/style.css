@@ -1,0 +1,11 @@
+
+body {background: black;}
+.postcard {background: white; height: 400px; width: 600px; margin: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); padding: 50px; font-size: 18px;}
+input {font-size: 18px;}
+.bodyleft {float: left; width: 50%;}
+.bodyright {float: right; width: 50%;}
+.bodyright input {display: block;}
+.postcard-header {overflow-y: auto;}
+.postcard-header h1 {margin: 0;}
+.postcard-header img {max-width: 60px; float: right;}
+.submit {background: blue;}
